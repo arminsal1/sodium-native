@@ -1,5 +1,5 @@
 {
-  "name": "@arminsal1/sodium-native",
+  "name": "sodium-native",
   "version": "2.4.6",
   "description": "Low level bindings for libsodium",
   "main": "index.js",
